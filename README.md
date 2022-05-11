@@ -1,8 +1,3 @@
-[![Build Status](https://travis-ci.org/jcstang/not-reddit.svg?branch=master)](https://travis-ci.org/jcstang/not-reddit)
-[![GitHub stars](https://img.shields.io/github/stars/jcstang/not-reddit)](https://github.com/jcstang/not-reddit/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/jcstang/not-reddit)](https://github.com/jcstang/not-reddit/network)
-[![GitHub license](https://img.shields.io/github/license/jcstang/not-reddit)](https://github.com/jcstang/not-reddit/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/jcstang/not-reddit)](https://github.com/jcstang/not-reddit/issues)
 
 # Seenit - A visual based forum for the curious.
 A visual based social media site, where you can post, share, discuss and like your favorite topics and engage and share with others by invoking curiosity through a clean and very visual forward interface.
